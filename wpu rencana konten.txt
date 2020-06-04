@@ -2,5 +2,5 @@ rencan konten wpu
  - java script
  - php premwork
  - ss6 
- - pundamental
  -premwork
+ .aurel
