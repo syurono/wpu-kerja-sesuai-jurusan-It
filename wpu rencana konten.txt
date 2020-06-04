@@ -1,6 +1,7 @@
 rencan konten wpu
  - java script
  - php premwork
+  .laravel
  - ss6 
  - pundamental
  -premwork
