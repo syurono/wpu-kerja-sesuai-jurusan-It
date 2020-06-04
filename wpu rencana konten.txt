@@ -6,3 +6,5 @@ rencan konten wpu
  - ss6 
  -premwork
  .aurel
+ .sakti
+ .kosentrasi
